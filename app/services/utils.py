@@ -1,7 +1,6 @@
 import struct
 from typing import Annotated, Union
 import typing
-from pydantic import create_model
 from pydantic.fields import Field
 
 
